@@ -1,0 +1,9 @@
+group 'dk.kyuff.versioned'
+version '0-SNAPSHOT'
+
+apply plugin: 'base'
+
+repositories {
+    mavenCentral()
+}
+

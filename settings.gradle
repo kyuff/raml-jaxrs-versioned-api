@@ -1,0 +1,4 @@
+rootProject.name = 'raml-jaxrs-versioned-api'
+
+include 'api'
+
